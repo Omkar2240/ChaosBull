@@ -46,7 +46,7 @@ If the answer is "I don't know", ChaosBull is for you.
 
 1. Download the extension ZIP:
 
-https://github.com/Omkar2240/ChaosBull/releases/downloads/v1.0.0/chaosbull.zip
+https://github.com/Omkar2240/ChaosBull/releases/download/v1.0.0/chaosbull.zip
 
 2. Extract the ZIP file.
 
